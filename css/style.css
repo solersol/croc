@@ -615,7 +615,7 @@ p {
 
 .banner-txt a {
     padding: 14px 20px;
-    background: #8de6ff;
+    background: #4ec06e;
     color: black;
     font-family: pb;
     font-size: 18px;
@@ -633,7 +633,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #8de6ff;
+    background: #4ec06e;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
